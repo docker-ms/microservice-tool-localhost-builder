@@ -1,0 +1,8 @@
+**/.DS_Store
+**/*.log
+**/sftp-config.json
+
+node_modules
+deployment_key
+
+
